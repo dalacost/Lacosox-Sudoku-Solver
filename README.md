@@ -6,3 +6,7 @@ Actualmente solo soporta tamaños 9x9, Soporte futuro para Sudoku de cualquier t
 mkdir clases
 
 ./Compilar.sh
+
+
+#Ejecutar
+./SudokuSolverAdictiveEdition.sh -h
