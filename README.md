@@ -4,4 +4,5 @@ Actualmente solo soporta tamaños 9x9, Soporte futuro para Sudoku de cualquier t
 
 #compilar
 mkdir clases
+
 ./Compilar.sh
