@@ -10,3 +10,6 @@ mkdir clases
 
 #Ejecutar
 ./SudokuSolverAdictiveEdition.sh -h
+
+#ScreenShots
+![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/screenshots/sc1.png)
