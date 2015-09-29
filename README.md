@@ -12,4 +12,4 @@ mkdir clases
 ./SudokuSolverAdictiveEdition.sh -h
 
 #ScreenShots
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/screenshots/sc1.png)
+![Image](https://github.com/dalacost/Lacosox-Sudoku-Solver/blob/master/screenshots/sc1.png)
